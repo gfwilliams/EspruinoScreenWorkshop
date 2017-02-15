@@ -5,9 +5,9 @@
 Your kit should have:
 
 * An [Espruino Pico](http://www.espruino.com/Pico)
-* A USB Type A extension
 * A [Breadboard](http://www.espruino.com/Breadboard) and patch wires
 * 4 LEDs
+* 6 Buttons
 * 4 75 Ohm Resistors
 * A [Piezo Speaker](http://www.espruino.com/Speaker)
 * A [PCD8544 display](http://www.espruino.com/PCD8544)
